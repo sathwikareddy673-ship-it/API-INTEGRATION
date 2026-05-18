@@ -14,7 +14,7 @@
 
 *OUTPUT 
 
- src="https://github.com/user-attachments/assets/7d317dc4-6f04-43dc-9d51-6589f00acb4b"
+ <img width="1909" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7d317dc4-6f04-43dc-9d51-6589f00acb4b" />
 
 **DESCRIPTION 
 This project is a responsive Weather App developed as part of Internship Task 1 on API Integration using full-stack web development concepts. The main objective of this task is to create a web application that fetches and displays real-time data from a public API. In this project, I used HTML, CSS, and JavaScript to build a user-friendly interface that retrieves live weather information for any city entered by the user.
